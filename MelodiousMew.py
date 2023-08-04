@@ -37,4 +37,4 @@ async def play(ctx, *, track_name):
         await ctx.send("You need to be in a voice channel to use this command.")
 
 # Run the bot
-bot.run('MTEzNzExODI0NzQzNTY0MDkwMg.G26QSo.GzUpTFFWt6ltwLMstguLVvagiNUnedRI99IP28')
+bot.run(' DISCORD_BOT_TOKEN')
